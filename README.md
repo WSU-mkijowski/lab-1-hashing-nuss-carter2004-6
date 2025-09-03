@@ -2,7 +2,7 @@
 # Lab 1 : CEG 3400 Intro to Cyber Security
 
 ## Name:
-
+Carter Nuss
 ### Task 1: Hashing
 
 **Reminder Deliverable:** Is your `salted-data.csv` in this repository?
