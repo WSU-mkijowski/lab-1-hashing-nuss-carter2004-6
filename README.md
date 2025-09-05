@@ -41,7 +41,7 @@ Answer the following:
 hash)
 
 ```
-
+000024a7f718c8d1013846edafd98180a59266ac62b32fcef42d1bbe982a8cd0 - 11347mice
 ```
 
 * How many words were in your dictionary?
