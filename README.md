@@ -15,11 +15,13 @@ Answer the following in this file:
 * How many possible combinations will I need to try to figure out the secret ID
   of all students (assume I know all potential secret IDs and have your 
   `salted-data.csv`)
-  - The worst case scenario would be 43*43 = 1849 different combinations
+  - The worst case scenario would be 43*43 = 1,849 different combinations
 * Instead of salts, if you were to use a nonce (unique number for each hashed
   field) how many possible combinations would I need to try?
+  - 1849 * 43 = 79,507
 * Given the above, if this quiz data were *actual* class data, say for example
   your final exam, how would you store this dataset?  Why?
+  - I would store each identifier in a hash, like in the salted-data, then hash the entire file. I would do this because not only does this hide the names of users, but it also hides the entire set of data
 
 ```bash
 please put any cool bash one-liners or other piped commands you
