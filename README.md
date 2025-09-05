@@ -45,11 +45,16 @@ hash)
 ```
 
 * How many words were in your dictionary?
+  - 1
 * How many nonces did your code iterate over?
+  - 11347
 * What was the maximum number of hashes your code *could* compute given the above?
+  - 9,999,999
 * What did you think about Task 2?
+  - I enjoyed finding the coins. I also was surprised that I found a 4 point coin while only looking for 3 point coins. 
 * Is there a better way than brute force to attempt to get higher valued coins?
 * Why or why not?
+  - I'm not sure if there really is a better way, unless you have a computer that runs off of GPU. GPUs are known do be able to do these kinds of tasks quicker than just a laptop. There is the same concept used for passwors cracking You can do it faster if you are willing to pay for the equipment
 
 
 ```bash
